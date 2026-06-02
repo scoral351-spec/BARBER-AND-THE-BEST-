@@ -27,12 +27,12 @@ header {
 /* Títulos */
 
 h1 {
-    color: #e01515;
+    color:#e01515;
     font-size: 40px;
 }
 
 h2 {
-    color: #e01515;
+    color:#e01515;
     text-align: center;
     margin-top: 40px;
 }
@@ -82,7 +82,7 @@ section {
 
 .tarjeta h3 {
     margin: 15px;
-    color: #e01515;
+    color:#e01515;
 }
 
 .tarjeta p {
@@ -99,7 +99,7 @@ section {
 /* Pie de página */
 
 footer {
-    background-color: #e01515;
+    background-color:#e01515;
     color: white;
     text-align: center;
     padding: 15px;
